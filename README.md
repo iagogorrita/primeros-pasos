@@ -2,6 +2,8 @@
 
 ## Práctica 1
 
+###
+
 **docker images** --> Lista todas las imagenes que tenemos descargadas en el equipo
 
 **docker run ubuntu** --> Arrancamos un contenedor sin nombre y sin posibilidad de interactuar con él.
@@ -26,5 +28,7 @@
 
 **docker stats** --> Con un contenedor arrancado, pondremos el comando y nos dira lo que esta consumiendo de CPU, RAM, internet... En mi caso ocupaba 7742MiB de ram, un 0.05% de la memoria total.
 
+###
 
+![](https://www.divertysub.com/archivos/informacion/141027125507_ballenafranca.jpg)
 
